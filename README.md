@@ -1,5 +1,5 @@
-<h1 align="center">Ilker Atar</h1>
-<h3 align="center">Software Developer</h3>
+### Hi I'm, Ilker Atar 
+### Software Developer 
 
 - 🌍  I'm based in Gebze/Turkey 
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ilker-atar-828a21160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilker-atar-828a21160/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ilkeratar3847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ilkeratar3847" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/ilkeratar3847](https://www.youtube.com/channel/UCbCpPS6Pd_xeItFgD8Qvz6g)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ilkeratar3847" height="30" width="40" /></a>
 <a href="https://discord.gg/ilker#6511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ilker#6511" height="30" width="40" /></a>
 </p>
 
