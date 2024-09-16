@@ -3,9 +3,9 @@
 
 - 🌍  I'm based in Gebze/Turkey 
 
-- 🔭 I’m currently working on **ReactJS and TypeScript**
+- 🔭 I’m currently working on **ReactJS, TypeScript and NestJS**
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **ilkerratar@icloud.com**
 
