@@ -1,11 +1,13 @@
 ### Hi I'm, Ilker Atar 
-### Software Developer 
+### Software Engineer 
 
-- 🌍  I'm based in Gebze/Turkey 
+- 🌍  I'm based in Ankara/Turkey 
 
 - 🔭 I’m currently working on **ReactJS, TypeScript, NextJS and NestJS**
 
 - 🌱 I’m currently learning **FastAPI**
+
+- 🎓 I’m studying my Master’s at Hacettepe University
 
 - 📫 How to reach me **ilkerratar@icloud.com**
 
