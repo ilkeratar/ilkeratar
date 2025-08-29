@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 🎓 I’m studying my Master’s at Hacettepe University
+- 🎓 I’m studying my Master’s at **Hacettepe University**
 
 - 📫 How to reach me **ilkerratar@icloud.com**
 
